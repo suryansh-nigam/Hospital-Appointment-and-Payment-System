@@ -1,0 +1,71 @@
+/* Page wrapper */
+.signup-wrapper {
+  background: #f4f6f9;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Card */
+.signup-card {
+  width: 450px;
+  background: #ffffff;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Title */
+.signup-title {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Subtitle */
+.signup-subtitle {
+  text-align: center;
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 22px;
+}
+
+/* Inputs */
+.signup-card label {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.signup-card input {
+  font-size: 14px;
+}
+
+/* Gender radio */
+.gender-group {
+  display: flex;
+  gap: 18px;
+  font-size: 14px;
+}
+
+/* 🔥 Button FIX (Bootstrap override) */
+.btn-teal {
+  background-color: #0f766e !important;
+  color: white !important;
+  border: none !important;
+  padding: 10px !important;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.btn-teal:hover {
+  background-color: #0d5f59 !important;
+}
+
+/* Bottom text */
+.signup-login-text {
+  text-align: center;
+  margin-top: 16px;
+  font-size: 14px;
+}

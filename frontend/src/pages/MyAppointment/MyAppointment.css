@@ -1,0 +1,97 @@
+.appointments-container {
+    padding: 60px 100px;
+}
+
+.appointments-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.appointments-header h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.appointments-header p {
+    color: gray;
+}
+
+.filter-buttons {
+    margin-bottom: 25px;
+}
+
+.filter-buttons button {
+    border: none;
+    padding: 8px 18px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background: #e5e7eb;
+    cursor: pointer;
+}
+
+.filter-buttons button.active {
+    background: #0f766e;
+    color: white;
+}
+
+.appointments-table {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 18px;
+    text-align: left;
+}
+
+th {
+    background: #f3f4f6;
+}
+
+tr:not(:last-child) {
+    border-bottom: 1px solid #eee;
+}
+
+.specialty {
+    font-size: 14px;
+    color: gray;
+}
+
+.badge {
+    padding: 6px 16px;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 90px;
+    text-align: center;
+}
+
+.pending {
+    background: #facc15;   
+    color: #000;
+}
+
+.approved {
+    background: #16a34a;  
+    color: #fff;
+}
+
+.paid {
+    background: #27b45b;
+    color: #fff;
+}
+
+.rejected {
+    background: #f04949;
+    color: #fff;
+}

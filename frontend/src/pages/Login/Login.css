@@ -1,0 +1,94 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f4f6f9;
+}
+
+.login-card {
+  width: 400px;
+  padding: 30px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.login-card h2 {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.toggle-wrapper {
+  display: flex;
+  background: #e5e7eb;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+.toggle-wrapper button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.active-btn {
+  background: #0f766e !important;
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  font-size: 14px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+form input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: #0f766e;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.submit-btn:hover {
+  background: #0d5f59;
+}
+
+.signup-text {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.signup-text span {
+  color: #0f766e;
+  cursor: pointer;
+  font-weight: 500;
+}
