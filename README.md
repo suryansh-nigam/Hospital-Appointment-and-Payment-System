@@ -26,7 +26,7 @@ This system provides a **digital solution** that improves efficiency, reduces wa
 
 ## ✨ Key Features
 
-- 🔐 Secure User Authentication (JWT आधारित)
+- 🔐 Secure User Authentication (JWT )
 - 📅 Online Appointment Booking System
 - 💳 Razorpay Payment Integration
 - 📧 Email Notifications (confirmation, updates, rescheduling)
@@ -124,4 +124,4 @@ This project provides a complete digital solution for hospital appointment manag
 ## 👨‍💻 Author
 
 **Suryansh Nigam**  
-B.Tech Computer Science Engineer  
+
