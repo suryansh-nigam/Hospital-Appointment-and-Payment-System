@@ -31,7 +31,6 @@ This system provides a **digital solution** that improves efficiency, reduces wa
 - 💳 Razorpay Payment Integration
 - 📧 Email Notifications (confirmation, updates, rescheduling)
 - 🔄 Smart Slot Management System
-- 💸 Refund System for cancellations
 - 👨‍⚕️ Doctor Management (Admin side)
 - 📊 Admin Dashboard for appointment control
 
@@ -116,7 +115,8 @@ This project provides a complete digital solution for hospital appointment manag
 ## 📌 Future Enhancements
 
 - 📱 Mobile App Integration  
-- 📊 Analytics Dashboard  
+- 📊 Analytics Dashboard
+- 💸 Refund System for cancellations
 - 🤖 AI-based Appointment Recommendations  
 
 ---
