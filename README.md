@@ -15,7 +15,10 @@ A full-stack web application designed to streamline hospital appointment booking
 - **Other:** Email Service Integration  
 
 ---
+Live Demo -  https://hospitalmedantaproject.netlify.app/
+---
 
+--Admin Panel--
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/37ad4c66-dabe-4750-b5cb-698d15bb135c" />
 
 
